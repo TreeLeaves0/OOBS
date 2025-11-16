@@ -1,7 +1,8 @@
+this is slopcoded by ai dont look at the code too much its bad but it works
 
 # OOBS - Foxhole Hex Player Tracker
 
-See which Steam players are in your hex and check if they are Colonial or Warden.
+See which Steam players are in your hex and check if they are Colonial or Warden. An open source alternative to WOBS
 
 ---
 
