@@ -59,3 +59,4 @@ pip install requests
 
 * When you enter a hex, you’ll see all players in it.
 * If a new player enters your hex, they’ll show up automatically.
+* If you want to check whether a player is Warden or Colonial, press the /p button and paste it in chat. If you can private message the player, they are Colonial if you cannot, they are a Warden.
